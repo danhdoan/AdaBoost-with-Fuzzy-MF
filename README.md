@@ -1,6 +1,6 @@
 # Analysis of Face Detection by AdaBoost algorithm using Fuzzy Membership
 
-NetBean project:
+## NetBean project:
 
 	- fuzzy_gauss_19: implementation of AdaBoost with Gaussian Fuzzy MF on MIT cbcl dataset
 		- 20180125_fuzzy_gauss1_19.wk
@@ -35,9 +35,9 @@ NetBean project:
 
 ## Program structure:
 
-main
-|__ trainingProcess
-|__ testingProcess
+	main
+	|__ trainingProcess
+	|__ testingProcess
 
 ### Training Process:
 	trainProcess
