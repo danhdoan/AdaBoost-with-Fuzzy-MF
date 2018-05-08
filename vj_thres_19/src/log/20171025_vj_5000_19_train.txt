@@ -1,0 +1,1201 @@
+run:
+algorithmAdaboost - threshold
+Weak Class: 0
+5104.0
+Index: 87143
+Error: 0.1040046104440855
+Time: 24.103
+
+Weak Class: 1
+4908.0
+Index: 39972
+Error: 0.16954865872257496
+Time: 26.013
+
+Weak Class: 2
+5586.0
+Index: 10481
+Error: 0.224920621242027
+Time: 26.906
+
+Weak Class: 3
+5422.0
+Index: 16029
+Error: 0.26593591963629953
+Time: 25.604
+
+Weak Class: 4
+4806.0
+Index: 67380
+Error: 0.26773573970387543
+Time: 24.245
+
+Weak Class: 5
+4797.0
+Index: 81889
+Error: 0.27477010135898855
+Time: 23.813
+
+Weak Class: 6
+5351.0
+Index: 133684
+Error: 0.2751740942688737
+Time: 23.892
+
+Weak Class: 7
+5139.0
+Index: 105340
+Error: 0.2975481283988078
+Time: 25.469
+
+Weak Class: 8
+5276.0
+Index: 29307
+Error: 0.2937071070736547
+Time: 26.291
+
+Weak Class: 9
+5073.0
+Index: 46326
+Error: 0.32400830035531436
+Time: 24.941
+
+Weak Class: 10
+5094.0
+Index: 129486
+Error: 0.2982553369386132
+Time: 25.164
+
+Weak Class: 11
+5050.0
+Index: 31279
+Error: 0.28490724923269384
+Time: 25.061
+
+Weak Class: 12
+5040.0
+Index: 89418
+Error: 0.31719646300509174
+Time: 24.934
+
+Weak Class: 13
+5073.0
+Index: 21345
+Error: 0.2807613419172675
+Time: 25.223
+
+Weak Class: 14
+5041.0
+Index: 10442
+Error: 0.3276114380106036
+Time: 24.981
+
+Weak Class: 15
+5050.0
+Index: 64905
+Error: 0.30827514586169347
+Time: 24.792
+
+Weak Class: 16
+5042.0
+Index: 10647
+Error: 0.3295786273011767
+Time: 24.908
+
+Weak Class: 17
+5069.0
+Index: 134337
+Error: 0.3191121040354786
+Time: 25.025
+
+Weak Class: 18
+5047.0
+Index: 122675
+Error: 0.34052108396286945
+Time: 25.007
+
+Weak Class: 19
+5090.0
+Index: 75711
+Error: 0.3297224414444175
+Time: 25.269
+
+Weak Class: 20
+5038.0
+Index: 107199
+Error: 0.338234591428727
+Time: 25.055
+
+Weak Class: 21
+5020.0
+Index: 3025
+Error: 0.3223742719154837
+Time: 24.983
+
+Weak Class: 22
+5064.0
+Index: 2486
+Error: 0.3323917883097757
+Time: 24.879
+
+Weak Class: 23
+5061.0
+Index: 77358
+Error: 0.34228546856972164
+Time: 25.055
+
+Weak Class: 24
+5109.0
+Index: 72863
+Error: 0.3390477507712252
+Time: 25.256
+
+Weak Class: 25
+5076.0
+Index: 122173
+Error: 0.36304757320137115
+Time: 24.159
+
+Weak Class: 26
+5210.0
+Index: 198
+Error: 0.3239832731342002
+Time: 24.625
+
+Weak Class: 27
+5071.0
+Index: 110007
+Error: 0.3455492200294452
+Time: 24.92
+
+Weak Class: 28
+5032.0
+Index: 105374
+Error: 0.3465221386856557
+Time: 25.079
+
+Weak Class: 29
+5041.0
+Index: 54330
+Error: 0.3448701434126896
+Time: 24.948
+
+Weak Class: 30
+5027.0
+Index: 69955
+Error: 0.330640933634826
+Time: 24.913
+
+Weak Class: 31
+5050.0
+Index: 18964
+Error: 0.32999293787255585
+Time: 24.931
+
+Weak Class: 32
+5031.0
+Index: 125627
+Error: 0.32857879890380887
+Time: 24.964
+
+Weak Class: 33
+5057.0
+Index: 107547
+Error: 0.35911359725255804
+Time: 24.904
+
+Weak Class: 34
+5050.0
+Index: 33925
+Error: 0.35039894010369943
+Time: 24.675
+
+Weak Class: 35
+5094.0
+Index: 10684
+Error: 0.33297007678748336
+Time: 25.141
+
+Weak Class: 36
+5088.0
+Index: 29234
+Error: 0.32175981650487595
+Time: 25.061
+
+Weak Class: 37
+5062.0
+Index: 108232
+Error: 0.35108172173841384
+Time: 25.076
+
+Weak Class: 38
+5069.0
+Index: 77994
+Error: 0.33170632103484865
+Time: 25.062
+
+Weak Class: 39
+5062.0
+Index: 91562
+Error: 0.3508741142195961
+Time: 25.039
+
+Weak Class: 40
+5024.0
+Index: 123379
+Error: 0.3092249787089098
+Time: 25.082
+
+Weak Class: 41
+5103.0
+Index: 128799
+Error: 0.3395098236027407
+Time: 25.156
+
+Weak Class: 42
+5066.0
+Index: 72090
+Error: 0.3417499888338366
+Time: 25.266
+
+Weak Class: 43
+5058.0
+Index: 84373
+Error: 0.3561916468020609
+Time: 25.003
+
+Weak Class: 44
+5107.0
+Index: 10352
+Error: 0.33323689055136285
+Time: 25.252
+
+Weak Class: 45
+5050.0
+Index: 107664
+Error: 0.35243089415295603
+Time: 24.959
+
+Weak Class: 46
+5071.0
+Index: 64894
+Error: 0.3359767659901998
+Time: 24.971
+
+Weak Class: 47
+5074.0
+Index: 56326
+Error: 0.34620884099042704
+Time: 25.185
+
+Weak Class: 48
+5076.0
+Index: 133556
+Error: 0.3460572386088165
+Time: 25.147
+
+Weak Class: 49
+5046.0
+Index: 120059
+Error: 0.3589592002345749
+Time: 25.208
+
+Weak Class: 50
+5062.0
+Index: 79589
+Error: 0.35271040152617655
+Time: 25.169
+
+Weak Class: 51
+5028.0
+Index: 128270
+Error: 0.3527354089170247
+Time: 25.018
+
+Weak Class: 52
+5080.0
+Index: 50718
+Error: 0.35386922894435857
+Time: 25.032
+
+Weak Class: 53
+5063.0
+Index: 15834
+Error: 0.35184349887679883
+Time: 24.932
+
+Weak Class: 54
+5045.0
+Index: 33918
+Error: 0.31955816051602437
+Time: 24.945
+
+Weak Class: 55
+5048.0
+Index: 122196
+Error: 0.3489910075749457
+Time: 24.947
+
+Weak Class: 56
+5055.0
+Index: 52666
+Error: 0.3380564466393257
+Time: 24.882
+
+Weak Class: 57
+5351.0
+Index: 121652
+Error: 0.34832588457164476
+Time: 24.381
+
+Weak Class: 58
+5108.0
+Index: 93287
+Error: 0.33687449258636437
+Time: 24.036
+
+Weak Class: 59
+5197.0
+Index: 66129
+Error: 0.3290108455326291
+Time: 24.863
+
+Weak Class: 60
+5058.0
+Index: 105393
+Error: 0.3410057019755385
+Time: 25.113
+
+Weak Class: 61
+5037.0
+Index: 10561
+Error: 0.34420799950920955
+Time: 24.984
+
+Weak Class: 62
+5063.0
+Index: 100701
+Error: 0.3438726006025745
+Time: 25.169
+
+Weak Class: 63
+5149.0
+Index: 54742
+Error: 0.3494179499049785
+Time: 25.091
+
+Weak Class: 64
+4658.0
+Index: 134512
+Error: 0.3540547193274527
+Time: 24.116
+
+Weak Class: 65
+4780.0
+Index: 80930
+Error: 0.341479557292075
+Time: 24.346
+
+Weak Class: 66
+5056.0
+Index: 94588
+Error: 0.34578582587113743
+Time: 25.398
+
+Weak Class: 67
+5207.0
+Index: 85153
+Error: 0.3428652539654337
+Time: 25.159
+
+Weak Class: 68
+5081.0
+Index: 109373
+Error: 0.3454755299314569
+Time: 24.896
+
+Weak Class: 69
+5258.0
+Index: 16174
+Error: 0.3603270462149344
+Time: 24.328
+
+Weak Class: 70
+4883.0
+Index: 73836
+Error: 0.3659073369316131
+Time: 25.29
+
+Weak Class: 71
+5205.0
+Index: 28727
+Error: 0.3489204152657223
+Time: 25.001
+
+Weak Class: 72
+5233.0
+Index: 84899
+Error: 0.34817058192100714
+Time: 25.655
+
+Weak Class: 73
+5440.0
+Index: 51360
+Error: 0.3329347535823583
+Time: 25.455
+
+Weak Class: 74
+4779.0
+Index: 28746
+Error: 0.3417866904012659
+Time: 24.645
+
+Weak Class: 75
+5192.0
+Index: 118414
+Error: 0.32623091556463135
+Time: 25.866
+
+Weak Class: 76
+5346.0
+Index: 108005
+Error: 0.34816994413080293
+Time: 25.753
+
+Weak Class: 77
+4978.0
+Index: 118014
+Error: 0.3476210101648988
+Time: 24.213
+
+Weak Class: 78
+4948.0
+Index: 83798
+Error: 0.3442770878273485
+Time: 24.069
+
+Weak Class: 79
+4971.0
+Index: 81878
+Error: 0.34141569535395755
+Time: 24.071
+
+Weak Class: 80
+4959.0
+Index: 31826
+Error: 0.32155229420208475
+Time: 24.137
+
+Weak Class: 81
+5120.0
+Index: 1466
+Error: 0.35602881179724843
+Time: 24.754
+
+Weak Class: 82
+5191.0
+Index: 15156
+Error: 0.3341711965436112
+Time: 24.663
+
+Weak Class: 83
+5004.0
+Index: 18339
+Error: 0.3642872008347589
+Time: 24.293
+
+Weak Class: 84
+4967.0
+Index: 129123
+Error: 0.3446881629305358
+Time: 24.487
+
+Weak Class: 85
+4971.0
+Index: 8616
+Error: 0.3376206149100203
+Time: 24.279
+
+Weak Class: 86
+4968.0
+Index: 66194
+Error: 0.353270491410297
+Time: 24.255
+
+Weak Class: 87
+5064.0
+Index: 114015
+Error: 0.3410887573067684
+Time: 24.747
+
+Weak Class: 88
+5073.0
+Index: 45492
+Error: 0.3489495279440482
+Time: 24.83
+
+Weak Class: 89
+5112.0
+Index: 2945
+Error: 0.35674958241363514
+Time: 24.936
+
+Weak Class: 90
+5118.0
+Index: 92835
+Error: 0.3406179894018215
+Time: 25.222
+
+Weak Class: 91
+5066.0
+Index: 5277
+Error: 0.35203468476347055
+Time: 24.937
+
+Weak Class: 92
+5075.0
+Index: 107408
+Error: 0.3327101534336525
+Time: 25.002
+
+Weak Class: 93
+5114.0
+Index: 84193
+Error: 0.3249294321062684
+Time: 24.943
+
+Weak Class: 94
+5048.0
+Index: 78259
+Error: 0.3402191759939239
+Time: 24.618
+
+Weak Class: 95
+5096.0
+Index: 116883
+Error: 0.34516943704416436
+Time: 25.036
+
+Weak Class: 96
+5176.0
+Index: 134493
+Error: 0.3390047012742865
+Time: 25.502
+
+Weak Class: 97
+5209.0
+Index: 124342
+Error: 0.32729306883376347
+Time: 25.3
+
+Weak Class: 98
+5102.0
+Index: 76753
+Error: 0.33624477820564674
+Time: 25.124
+
+Weak Class: 99
+5017.0
+Index: 122372
+Error: 0.3369571283927042
+Time: 24.63
+
+Weak Class: 100
+5374.0
+Index: 55356
+Error: 0.32622587860692986
+Time: 26.187
+
+Weak Class: 101
+5352.0
+Index: 18209
+Error: 0.3481168033851268
+Time: 26.351
+
+Weak Class: 102
+5012.0
+Index: 77358
+Error: 0.3513107912899617
+Time: 24.418
+
+Weak Class: 103
+5255.0
+Index: 115410
+Error: 0.352780491055821
+Time: 25.887
+
+Weak Class: 104
+5066.0
+Index: 13077
+Error: 0.34336626444149915
+Time: 24.594
+
+Weak Class: 105
+5033.0
+Index: 129091
+Error: 0.3619384672756969
+Time: 24.542
+
+Weak Class: 106
+4996.0
+Index: 7117
+Error: 0.3644919134453372
+Time: 24.488
+
+Weak Class: 107
+5014.0
+Index: 20759
+Error: 0.367131359130599
+Time: 24.663
+
+Weak Class: 108
+4980.0
+Index: 81073
+Error: 0.36425861909406604
+Time: 24.458
+
+Weak Class: 109
+5023.0
+Index: 134423
+Error: 0.33715268316348346
+Time: 24.488
+
+Weak Class: 110
+4986.0
+Index: 22250
+Error: 0.36814381728753653
+Time: 24.237
+
+Weak Class: 111
+5029.0
+Index: 2812
+Error: 0.35242649499103723
+Time: 24.536
+
+Weak Class: 112
+5030.0
+Index: 80217
+Error: 0.3629997762241235
+Time: 24.647
+
+Weak Class: 113
+5110.0
+Index: 83646
+Error: 0.35551505866114597
+Time: 25.165
+
+Weak Class: 114
+5078.0
+Index: 38257
+Error: 0.3334156347567509
+Time: 24.951
+
+Weak Class: 115
+5060.0
+Index: 15730
+Error: 0.3405061386933314
+Time: 24.855
+
+Weak Class: 116
+5213.0
+Index: 124842
+Error: 0.3448090775224403
+Time: 25.624
+
+Weak Class: 117
+5057.0
+Index: 125733
+Error: 0.35402328683233714
+Time: 24.909
+
+Weak Class: 118
+5024.0
+Index: 63796
+Error: 0.3503594815376223
+Time: 24.797
+
+Weak Class: 119
+5240.0
+Index: 77238
+Error: 0.3583889392490708
+Time: 25.765
+
+Weak Class: 120
+5053.0
+Index: 81890
+Error: 0.3561379784759297
+Time: 24.816
+
+Weak Class: 121
+5055.0
+Index: 107428
+Error: 0.33564496246780334
+Time: 24.747
+
+Weak Class: 122
+5020.0
+Index: 129175
+Error: 0.3548259575330846
+Time: 24.993
+
+Weak Class: 123
+5171.0
+Index: 69174
+Error: 0.3427628585797203
+Time: 25.535
+
+Weak Class: 124
+5129.0
+Index: 81684
+Error: 0.3442237902252764
+Time: 25.315
+
+Weak Class: 125
+5123.0
+Index: 118998
+Error: 0.3520618468213543
+Time: 25.343
+
+Weak Class: 126
+5146.0
+Index: 77852
+Error: 0.34614466343819766
+Time: 25.121
+
+Weak Class: 127
+5106.0
+Index: 79854
+Error: 0.3535784119147881
+Time: 25.311
+
+Weak Class: 128
+5124.0
+Index: 17781
+Error: 0.32629390336690356
+Time: 25.156
+
+Weak Class: 129
+5117.0
+Index: 53296
+Error: 0.3550196203505539
+Time: 25.183
+
+Weak Class: 130
+5076.0
+Index: 30967
+Error: 0.3550015387844365
+Time: 25.022
+
+Weak Class: 131
+5112.0
+Index: 56046
+Error: 0.34473882963423946
+Time: 25.176
+
+Weak Class: 132
+5164.0
+Index: 121451
+Error: 0.358220391110733
+Time: 25.544
+
+Weak Class: 133
+5077.0
+Index: 37656
+Error: 0.3494723000565835
+Time: 25.071
+
+Weak Class: 134
+5101.0
+Index: 30018
+Error: 0.36980746088844346
+Time: 25.266
+
+Weak Class: 135
+5090.0
+Index: 80410
+Error: 0.3437385835834668
+Time: 25.086
+
+Weak Class: 136
+5081.0
+Index: 12322
+Error: 0.358723846504011
+Time: 25.122
+
+Weak Class: 137
+5073.0
+Index: 52211
+Error: 0.3602218848706118
+Time: 24.9
+
+Weak Class: 138
+5128.0
+Index: 92396
+Error: 0.36019637077635336
+Time: 25.234
+
+Weak Class: 139
+5095.0
+Index: 124722
+Error: 0.36184548146517936
+Time: 25.085
+
+Weak Class: 140
+5212.0
+Index: 77919
+Error: 0.35748999575674906
+Time: 25.96
+
+Weak Class: 141
+5090.0
+Index: 119434
+Error: 0.33866774630678737
+Time: 25.133
+
+Weak Class: 142
+5110.0
+Index: 23824
+Error: 0.3574815469927882
+Time: 25.316
+
+Weak Class: 143
+5160.0
+Index: 131090
+Error: 0.3445247313676593
+Time: 25.169
+
+Weak Class: 144
+5077.0
+Index: 15261
+Error: 0.3487687568534367
+Time: 25.168
+
+Weak Class: 145
+5087.0
+Index: 44218
+Error: 0.3614246097327092
+Time: 25.093
+
+Weak Class: 146
+5085.0
+Index: 109733
+Error: 0.3666109166311854
+Time: 24.939
+
+Weak Class: 147
+5049.0
+Index: 79734
+Error: 0.36300928929591914
+Time: 25.034
+
+Weak Class: 148
+5080.0
+Index: 19352
+Error: 0.3525002214494312
+Time: 25.027
+
+Weak Class: 149
+5090.0
+Index: 109573
+Error: 0.34740419006479073
+Time: 25.062
+
+Weak Class: 150
+5154.0
+Index: 75729
+Error: 0.3550620434533543
+Time: 25.45
+
+Weak Class: 151
+5113.0
+Index: 22021
+Error: 0.35488269593812405
+Time: 25.231
+
+Weak Class: 152
+5095.0
+Index: 85757
+Error: 0.345861962795224
+Time: 25.116
+
+Weak Class: 153
+5108.0
+Index: 3077
+Error: 0.36757541643872865
+Time: 25.17
+
+Weak Class: 154
+5099.0
+Index: 105324
+Error: 0.3526672878172871
+Time: 25.262
+
+Weak Class: 155
+5113.0
+Index: 32908
+Error: 0.3605328489071626
+Time: 25.299
+
+Weak Class: 156
+5138.0
+Index: 15009
+Error: 0.3494691650960034
+Time: 25.192
+
+Weak Class: 157
+5121.0
+Index: 71992
+Error: 0.34697699445646424
+Time: 25.086
+
+Weak Class: 158
+5116.0
+Index: 82601
+Error: 0.32463580572775025
+Time: 25.039
+
+Weak Class: 159
+5116.0
+Index: 120053
+Error: 0.3498954449079929
+Time: 25.139
+
+Weak Class: 160
+5090.0
+Index: 90
+Error: 0.34913018904426935
+Time: 25.069
+
+Weak Class: 161
+5104.0
+Index: 134190
+Error: 0.3517231567611341
+Time: 25.066
+
+Weak Class: 162
+5104.0
+Index: 126866
+Error: 0.3342168196341093
+Time: 25.106
+
+Weak Class: 163
+5191.0
+Index: 63712
+Error: 0.3481772164045402
+Time: 25.743
+
+Weak Class: 164
+5121.0
+Index: 106369
+Error: 0.36103141001202826
+Time: 25.346
+
+Weak Class: 165
+5113.0
+Index: 77466
+Error: 0.36170033469696006
+Time: 25.2
+
+Weak Class: 166
+5065.0
+Index: 48
+Error: 0.34669151915702723
+Time: 24.996
+
+Weak Class: 167
+5109.0
+Index: 5293
+Error: 0.33078595333738836
+Time: 25.247
+
+Weak Class: 168
+5088.0
+Index: 122945
+Error: 0.33314911027717764
+Time: 24.861
+
+Weak Class: 169
+5092.0
+Index: 85161
+Error: 0.34759533999517067
+Time: 24.993
+
+Weak Class: 170
+5047.0
+Index: 68430
+Error: 0.33682597571653816
+Time: 24.919
+
+Weak Class: 171
+5046.0
+Index: 1
+Error: 0.3419670312363928
+Time: 24.907
+
+Weak Class: 172
+5090.0
+Index: 124687
+Error: 0.3524392272433285
+Time: 25.002
+
+Weak Class: 173
+5106.0
+Index: 133976
+Error: 0.3582959080317431
+Time: 25.172
+
+Weak Class: 174
+5001.0
+Index: 24285
+Error: 0.3546399237517411
+Time: 24.653
+
+Weak Class: 175
+5024.0
+Index: 45498
+Error: 0.3490013303050002
+Time: 24.555
+
+Weak Class: 176
+5001.0
+Index: 43041
+Error: 0.3478774965700668
+Time: 24.717
+
+Weak Class: 177
+5036.0
+Index: 36335
+Error: 0.3493581926431801
+Time: 24.673
+
+Weak Class: 178
+5046.0
+Index: 81884
+Error: 0.32543752135882575
+Time: 24.624
+
+Weak Class: 179
+5058.0
+Index: 84371
+Error: 0.3460562257253903
+Time: 24.89
+
+Weak Class: 180
+5023.0
+Index: 71884
+Error: 0.3135600246849524
+Time: 24.6
+
+Weak Class: 181
+5106.0
+Index: 49935
+Error: 0.35610907726423696
+Time: 25.224
+
+Weak Class: 182
+5072.0
+Index: 112897
+Error: 0.35535590998123384
+Time: 24.886
+
+Weak Class: 183
+5044.0
+Index: 26748
+Error: 0.3469855191196069
+Time: 24.768
+
+Weak Class: 184
+5059.0
+Index: 122267
+Error: 0.35614804300506686
+Time: 24.841
+
+Weak Class: 185
+5043.0
+Index: 6
+Error: 0.36115353938828326
+Time: 24.935
+
+Weak Class: 186
+5046.0
+Index: 121421
+Error: 0.35620564217459616
+Time: 24.874
+
+Weak Class: 187
+5034.0
+Index: 119005
+Error: 0.36472025317254364
+Time: 24.738
+
+Weak Class: 188
+5109.0
+Index: 20620
+Error: 0.3469920161407109
+Time: 25.125
+
+Weak Class: 189
+5011.0
+Index: 67198
+Error: 0.3500189361212645
+Time: 24.71
+
+Weak Class: 190
+5294.0
+Index: 15939
+Error: 0.34249487555434793
+Time: 25.813
+
+Weak Class: 191
+5096.0
+Index: 24287
+Error: 0.37026701184725314
+Time: 25.204
+
+Weak Class: 192
+5100.0
+Index: 91778
+Error: 0.3536370124814554
+Time: 24.953
+
+Weak Class: 193
+5076.0
+Index: 112809
+Error: 0.3480345611525023
+Time: 25.037
+
+Weak Class: 194
+5068.0
+Index: 8177
+Error: 0.3467871696119841
+Time: 24.875
+
+Weak Class: 195
+5092.0
+Index: 133819
+Error: 0.36377971297038736
+Time: 25.011
+
+Weak Class: 196
+5228.0
+Index: 128332
+Error: 0.3681313810986698
+Time: 25.882
+
+Weak Class: 197
+5331.0
+Index: 105936
+Error: 0.3410620382381617
+Time: 26.403
+
+Weak Class: 198
+4981.0
+Index: 70593
+Error: 0.3478307899178044
+Time: 24.678
+
+Weak Class: 199
+5147.0
+Index: 58382
+Error: 0.34692276737124556
+Time: 25.582
