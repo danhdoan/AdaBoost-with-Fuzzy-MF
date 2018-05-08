@@ -48,7 +48,7 @@ main
 	|__ algorithmAdaboost
 	|__ saveArrWeakClass
 
-Functions:
+#### Functions:
 
 	ArrayList<int[][]> readInputImage(String path)
 		Parameter:
@@ -129,7 +129,7 @@ Functions:
 			- Just apply Fuzzy MF formula
 		Note: only use for Triangular Fuzzy MF
 
-#Test Process:
+### Test Process:
 	trainProcess
 	|__ readInputImage
 	|__ calculateIntegralImage
@@ -138,7 +138,7 @@ Functions:
 	|__ loadWeakClass
 	|__ testData
 
-Functions:
+#### Functions:
 
 	void testData(String fileTestInfo, double rate)
 		Parameter:
