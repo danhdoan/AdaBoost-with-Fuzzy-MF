@@ -1,4 +1,4 @@
-###Analysis of Face Detection by AdaBoost algorithm using Fuzzy Membership
+###Analysis of Face Detection by AdaBoost algorithm using Fuzzy Membership###
 
 NetBean project:
 
@@ -33,13 +33,13 @@ NetBean project:
 
 	Each Strongclass (.wk file) mentioned above consists of 200 Weakclass 
 
-##Program structure:
+##Program structure:##
 
 main
 |__ trainingProcess
 |__ testingProcess
 
-#Training Process:
+#Training Process:#
 	trainProcess
 	|__ readInputImage
 	|__ calculateIntegralImage
